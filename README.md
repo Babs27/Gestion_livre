@@ -1,8 +1,11 @@
 # Gestion de Livres et Avis - Application Laravel
 
 Application web de gestion de bibliothèque avec système d'avis, développée avec Laravel.
+Nous avons ajouté la base de données dans le fichier du projet. Il se nomme avis_livre, et les
+Captures d'ecran sont dans le dossier CAPTURE dans le fichier du projet.
 
 ## 📦 Installation
+
 
 1. **Cloner le dépôt** :
    ```bash
