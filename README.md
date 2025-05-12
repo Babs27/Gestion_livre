@@ -10,7 +10,7 @@ serveur mysql.
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone [votre-url-git]
+   git clone [https://github.com/composer/composer]
    cd gestion-livres-avis
 
 2. **Installer les dépendances** :
